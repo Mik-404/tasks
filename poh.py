@@ -2,4 +2,4 @@ print('pishol nakhui')
 
 print("waaaiblooohhhya")
 
-print("ya zapusya")
+print("ya zaputallllsya")
