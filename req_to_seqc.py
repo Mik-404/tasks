@@ -4,7 +4,7 @@ def req ():
 
 print("hey ya ustal")
 
-print("hey ya silno ustal")
+print("hey ya snova polon sil")
 
 
 print(req())
