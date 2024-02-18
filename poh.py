@@ -3,7 +3,9 @@ print("waaaiblooohhhya")
 
 print("ya zaputallllsya")
 
-print("wrong line")
+
+print("nice line")
+
 
 print ("empty commit 1")
 
