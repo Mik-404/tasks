@@ -3,4 +3,4 @@ def req ():
     return "no"
 print(req())
 
-print("heheh")
+print("right txt")
