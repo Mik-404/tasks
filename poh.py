@@ -11,4 +11,6 @@ print ("empty commit 1")
 
 print("ige time")
 
+print("yes! I get leopard 2a4")
+
 print ("empty commit 2")
