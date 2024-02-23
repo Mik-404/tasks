@@ -1,10 +1,3 @@
-print('pishol nakhui')
-print("waaaiblooohhhya")
-
-print("ya zaputallllsya")
-
-print("Chudesnij den")
-
 print("nice line")
 
 
