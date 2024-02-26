@@ -14,3 +14,4 @@ print('kakoi nakhul')
 
 print("ya fanatka devochek volshebnicc")
 
+print("gde moya kivi ((")
