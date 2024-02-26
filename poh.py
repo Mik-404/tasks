@@ -1,9 +1,8 @@
-print("nice line")
+print ("a pochemu on a ne ya ")
 
 
-print ("empty commit 1")
+print ("a blyyaaaa ")
 
-print("ige time")
 
 print("yes! I get leopard 2a4")
 
@@ -13,3 +12,4 @@ print('kakoi nakhul')
 
 
 print("ya fanatka devochek volshebnicc")
+
