@@ -1,8 +1,9 @@
-print ("a pochemu on a ne ya ")
+print("nice line")
 
 
-print ("a blyyaaaa ")
+print ("empty commit 1")
 
+print("ige time")
 
 print("yes! I get leopard 2a4")
 
